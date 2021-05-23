@@ -1,0 +1,33 @@
+header{
+	background-color: #BDBDBD;
+}
+h1{
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 40px;
+	text-transform: uppercase;
+}
+a{
+	color: #000000;
+	background-color: #D8D8D8;
+}
+
+h2{
+	color: #0404B4;
+	font-size: 35px;
+	text-transform: uppercase;
+}
+
+section{
+	background-color:#848484;
+	text-align: left;
+
+}
+aside{
+	visibility: hidden;
+	position: absolute;
+
+}
+section.right{
+	text-align: top;
+    }

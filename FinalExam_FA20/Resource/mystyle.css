@@ -1,0 +1,75 @@
+header{
+    background-color: #add8e6;
+    text-align: center;
+    border-radius: 5px;
+    clear: both;
+}
+
+header > nav > a{
+    padding: 10%;
+    color: blue;
+}
+
+header nav{
+    padding-bottom: 10px;
+}
+
+header > h1{
+    color: gray;
+}
+
+.left{
+    float: left;
+    width: 20%;
+    height: 500px;
+    background-color: #add8e6;
+    margin: 5px 5px 5px 0;
+    border-radius: 5px;
+}
+
+.left ul{
+    padding-left: 0;
+}
+
+.left ul li{
+    text-align: center;
+    background-color: blue;
+    color: gray;
+    margin: 5px;
+    list-style-type: none;
+}
+
+.left ul li:hover{
+    background-color: gray;
+    color: blue;
+}
+
+.left form{
+    margin-left: 3px;
+}
+
+.right{
+    float: left;
+    width: 79%;
+    height: 500px;
+    background-color: #add8e6;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.right p{
+    margin-left: 5px;
+}
+
+.right p:first-line{
+    color: blue;
+    font-weight: bold;
+}
+
+footer{
+    background-color: #add8e6;
+    text-align: center;
+    border-radius: 5px;
+    clear: both;
+    padding: 2px 0;
+}
